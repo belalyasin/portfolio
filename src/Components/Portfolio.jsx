@@ -19,7 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+// import image from "../images/design-desk.jpeg";
+import image from "../images/red.jpg";
+// import image from "../images/programming.png";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +33,40 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Fruit Market web App",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Create and Edit and Read and Delete Category, Proudect, Sub Category and Nutrition, Update Profile the user and make Authentication by Phone Number.",
+    url: "https://github.com/belalyasin/fruitmarket_app",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Gem Management web Project",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Add, Edit, Read and Delete User, Coach, TrainingSession, Session, Blog , Update User and Coach Profile.",
+    url: "https://github.com/belalyasin/GemManagementProject",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/belalyasin/portfolio",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Chat System",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Add Login and Show Your Group and masseges and send massege and uploud Media.",
+    url: "https://github.com/belalyasin/Chat_Sestem",
+  },
+  {
+    title: "Image Manegar BackEnd (API)",
+    description:
+      "Create, uploude, Read, Move, Edit and Delete Folder, Uploude, Downloade, Read, Edit, Move and delete Image, Read, Update, Create, Deleate User and Update User Profile.",
+    url: "https://github.com/belalyasin/ImageManegarBackEnd",
+  },
+  {
+    title: "Image Manegar Front-End",
+    description:
+      "Create file, folder and auth service and model and add user model and update on topbar, user-inner,account,overview, file, folder, login, logout, register and document component.",
+    url: "https://github.com/belalyasin/ImageManager",
   },
 ];
 
