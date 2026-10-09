@@ -27,11 +27,11 @@ const siteProps = {
   name: "Belal Abu Hatab",
   title: "Full Stack Developer",
   email: "belalabwhatb2@gmail.com",
-  gitHub: "https://github.com/belalyasin",
-  instagram: "https://www.instagram.com/belal_yassen.18/",
-  linkedIn: "https://www.linkedin.com/in/belal-abu-hatab",
+  gitHub: "belalyasin",
+  instagram: "belal_yassen.18",
+  linkedIn: "belal-abu-hatab",
   medium: "",
-  twitter: "belal_2001_/",
+  twitter: "belal_2001_",
   youTube: "",
 };
 
