@@ -25,21 +25,21 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am a front-end and back-end developer who studied at the Islamic University of Gaza. I enjoy creating fronts and backend in creative ways.";
+  "I'm a full stack developer based in Gaza, Palestine, with a BSc in Information Technology from the Islamic University of Gaza. I build web applications end to end, from the database and API to the user interface.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web development",
-  "web programming",
-  "creating web planning and analysis",
-  "Front-End (Vue, Angular)",
-  "Back-End (Laravel, NodeJs)",
-  "Data Base (Mysql, MongoDB)",
+  "PHP, Laravel",
+  "Node.js, Express",
+  "Angular, TypeScript",
+  "Vue, JavaScript",
+  "MySQL, MongoDB",
+  "REST API design",
+  "Database design",
   "Git, GitHub",
-  "Data Base analysis and planning ",
 ];
 
 /**
@@ -48,7 +48,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my Front-End and Back-End Developer experience I continually look for new and better ways to make tech accessible by all.";
+  "I like turning a business problem into a working system: a clear data model, a clean API, and an interface people can use without a manual. I'm open to remote roles and freelance projects.";
 
 const About = () => {
   return (

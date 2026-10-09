@@ -23,7 +23,7 @@ import React from "react";
 import image from "../images/red.jpg";
 // import image from "../images/programming.png";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "";
 
 /**
  * Project list
@@ -33,41 +33,40 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Fruit Market web App",
+    title: "Technical Support System",
     description:
-      "Create and Edit and Read and Delete Category, Proudect, Sub Category and Nutrition, Update Profile the user and make Authentication by Phone Number.",
-    url: "https://github.com/belalyasin/fruitmarket_app",
+      "REST API for a support chat system in Laravel 11, with Sanctum authentication, roles and permissions, and predefined replies.",
+    url: "https://github.com/belalyasin/technical-support-system-api",
   },
   {
-    title: "Gem Management web Project",
+    title: "Expense Management API",
     description:
-      "Add, Edit, Read and Delete User, Coach, TrainingSession, Session, Blog , Update User and Coach Profile.",
-    url: "https://github.com/belalyasin/GemManagementProject",
+      "Node.js, Express and MongoDB API with JWT authentication, expense categories and monthly statistics.",
+    url: "https://github.com/belalyasin/expense-management-api",
   },
   {
-    title: "My Resume Site",
+    title: "Image Manager",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://belalyasin.github.io/portfolio/",
-    // url: "https://github.com/belalyasin/portfolio",
+      "Node.js API and Angular front end for organising images into folders, with uploads, tags and Google sign-in.",
+    url: "https://github.com/belalyasin/image-manager-api",
+  },
+  {
+    title: "Fruit Market",
+    description:
+      "Laravel 10 admin panel and mobile API: catalogue management, cart, orders and OTP sign-up by phone.",
+    url: "https://github.com/belalyasin/fruit-market",
+  },
+  {
+    title: "Gym Management System",
+    description:
+      "Laravel 9 system for packages, sessions, coaches and attendance, with Stripe payments and role-based access.",
+    url: "https://github.com/belalyasin/gym-management-system",
   },
   {
     title: "Chat System",
     description:
-      "Add Login and Show Your Group and masseges and send massege and uploud Media.",
-    url: "https://github.com/belalyasin/Chat_Sestem",
-  },
-  {
-    title: "Image Manegar BackEnd (API)",
-    description:
-      "Create, uploude, Read, Move, Edit and Delete Folder, Uploude, Downloade, Read, Edit, Move and delete Image, Read, Update, Create, Deleate User and Update User Profile.",
-    url: "https://github.com/belalyasin/ImageManegarBackEnd",
-  },
-  {
-    title: "Image Manegar Front-End",
-    description:
-      "Create file, folder and auth service and model and add user model and update on topbar, user-inner,account,overview, file, folder, login, logout, register and document component.",
-    url: "https://github.com/belalyasin/ImageManager",
+      "Chat app in Laravel 10, Inertia.js and Vue 3. In progress.",
+    url: "https://github.com/belalyasin/chat-system",
   },
 ];
 

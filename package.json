@@ -1,7 +1,7 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": "Personal portfolio site of Belal Abu Hatab",
   "source": "src/index.html",
   "homepage": "https://belalyasin.github.io/portfolio",
   "scripts": {
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
+    "url": "git+https://github.com/belalyasin/portfolio.git"
   },
-  "author": "Microsoft",
+  "author": "Belal Abu Hatab",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
+    "url": "https://github.com/belalyasin/portfolio/issues"
   },
   "dependencies": {
     "react": "^18.2.0",

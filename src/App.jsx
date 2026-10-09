@@ -25,11 +25,11 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Belal Abu Hatab",
-  title: "Web Development & Web Programming",
-  email: "belalabwhatab2@gmail.com",
+  title: "Full Stack Developer",
+  email: "belalabwhatb2@gmail.com",
   gitHub: "https://github.com/belalyasin",
   instagram: "https://www.instagram.com/belal_yassen.18/",
-  linkedIn: "https://www.linkedin.com/in/belal-abu-hatab-284497195",
+  linkedIn: "https://www.linkedin.com/in/belal-abu-hatab",
   medium: "",
   twitter: "belal_2001_/",
   youTube: "",
