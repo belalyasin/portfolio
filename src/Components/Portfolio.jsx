@@ -35,13 +35,13 @@ const projectList = [
   {
     title: "Technical Support System",
     description:
-      "REST API for a support chat system in Laravel 11, with Sanctum authentication, roles and permissions, and predefined replies.",
+      "Support chat system: a Laravel 11 API with Sanctum and roles, and an Angular front end. Customers and staff chat with live updates, quick replies and user management.",
     url: "https://github.com/belalyasin/technical-support-system-api",
   },
   {
-    title: "Expense Management API",
+    title: "Expense Management",
     description:
-      "Node.js, Express and MongoDB API with JWT authentication, expense categories and monthly statistics.",
+      "Node.js, Express and MongoDB API with an Angular client: JWT sign-in, expense categories, a monthly dashboard and statistics.",
     url: "https://github.com/belalyasin/expense-management-api",
   },
   {
@@ -65,7 +65,7 @@ const projectList = [
   {
     title: "Chat System",
     description:
-      "Chat app in Laravel 10, Inertia.js and Vue 3. In progress.",
+      "Chat app in Laravel 10, Inertia.js and Vue 3: one-to-one conversations, unread counts and messages that arrive without reloading.",
     url: "https://github.com/belalyasin/chat-system",
   },
 ];
