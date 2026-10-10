@@ -65,7 +65,7 @@ const projectList = [
   {
     title: "Chat System",
     description:
-      "Chat app in Laravel 10, Inertia.js and Vue 3: one-to-one conversations, unread counts and messages that arrive without reloading.",
+      "Chat app in Laravel 10, Inertia.js and Vue 3: one-to-one and group conversations, unread counts and messages that arrive without reloading.",
     url: "https://github.com/belalyasin/chat-system",
   },
 ];
